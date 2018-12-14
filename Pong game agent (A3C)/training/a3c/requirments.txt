@@ -1,0 +1,4 @@
+a3c
+torch>=0.4.1
+opencv-python==3.4.4.19
+pygame==1.9.4
